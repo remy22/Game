@@ -1,0 +1,6 @@
+﻿1. Limited Movement
+The player can only either strafe or run forward, both should be allowed at the same time
+
+2. To increase performance, when a textured is damaged only repair it every few frames, even better go through the list
+of damaged frames over a period of frames similar to how the camera draws, this allows multiple things to damage a texture a 
+a small number of frames without it having to repair itself for each one :) 5x more efficient

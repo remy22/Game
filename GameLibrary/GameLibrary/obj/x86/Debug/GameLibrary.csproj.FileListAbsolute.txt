@@ -1,0 +1,18 @@
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\GameLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\GameLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\GameLibrary\bin\x86\Debug\GameLibrary.dll
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\GameLibrary\obj\x86\Debug\GameLibrary.dll
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+E:\My Documents\Projects\GameLibrary\GameLibrary\bin\x86\Debug\GameLibrary.dll
+E:\My Documents\Projects\GameLibrary\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+E:\My Documents\Projects\GameLibrary\GameLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Documents\Projects\GameLibrary\GameLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\My Documents\Projects\GameLibrary\GameLibrary\obj\x86\Debug\GameLibrary.dll
+E:\My Documents\Projects\GameLibrary\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+C:\Users\Jerome\views\ProgrammingProjects\c#\GameLibrary\GameLibrary\bin\x86\Debug\GameLibrary.dll
+C:\Users\Jerome\views\ProgrammingProjects\c#\GameLibrary\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+C:\Users\Jerome\views\ProgrammingProjects\c#\GameLibrary\GameLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jerome\views\ProgrammingProjects\c#\GameLibrary\GameLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jerome\views\ProgrammingProjects\c#\GameLibrary\GameLibrary\obj\x86\Debug\GameLibrary.dll
+C:\Users\Jerome\views\ProgrammingProjects\c#\GameLibrary\GameLibrary\obj\x86\Debug\GameLibrary.pdb

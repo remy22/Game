@@ -1,0 +1,17 @@
+﻿1. Auto Melee
+When doing an attack, if the attack is extremely close the the character, a melee attack is performed, this functionality
+was taken from the Metal Slug series
+
+2. Scope View
+Depending on the weapon equiped, the player is able to push the camera further, for example if the player is holding a sniper rifle
+and the move the mouse to the top of the screen it will drag the camera with it quite significantely.
+
+3. Game and GameObject speed, this dictates their movement and animation speeds, basically game speed as well.
+
+4. Game Graphics and Animations
+
+5. BulletTime
+
+6. Blood splatter, when a unit gets shot the blood will come out the other side and collide with the environment like bullets
+damaging it with red.
+

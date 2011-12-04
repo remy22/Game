@@ -1,0 +1,27 @@
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\FighersProject\bombardiens\bombardiens\bin\x86\Debug\bombardiens.exe
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\FighersProject\bombardiens\bombardiens\bin\x86\Debug\bombardiens.pdb
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\FighersProject\bombardiens\bombardiens\bin\x86\Debug\GameLibrary.dll
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\FighersProject\bombardiens\bombardiens\bin\x86\Debug\GameLibrary.pdb
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\FighersProject\bombardiens\bombardiens\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\FighersProject\bombardiens\bombardiens\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\FighersProject\bombardiens\bombardiens\obj\x86\Debug\bombardiens.exe
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\FighersProject\bombardiens\bombardiens\obj\x86\Debug\bombardiens.pdb
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\FighersProject\bombardiens\bombardiens\bin\x86\Debug\Content\font.xnb
+E:\My Documents\Projects\FighersProject\bombardiens\bombardiens\bin\x86\Debug\Content\font.xnb
+E:\My Documents\Projects\FighersProject\bombardiens\bombardiens\bin\x86\Debug\bombardiens.exe
+E:\My Documents\Projects\FighersProject\bombardiens\bombardiens\bin\x86\Debug\bombardiens.pdb
+E:\My Documents\Projects\FighersProject\bombardiens\bombardiens\bin\x86\Debug\GameLibrary.dll
+E:\My Documents\Projects\FighersProject\bombardiens\bombardiens\bin\x86\Debug\GameLibrary.pdb
+E:\My Documents\Projects\FighersProject\bombardiens\bombardiens\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Documents\Projects\FighersProject\bombardiens\bombardiens\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\My Documents\Projects\FighersProject\bombardiens\bombardiens\obj\x86\Debug\bombardiens.exe
+E:\My Documents\Projects\FighersProject\bombardiens\bombardiens\obj\x86\Debug\bombardiens.pdb
+C:\Users\Jerome\views\ProgrammingProjects\c#\FighersProject\bombardiens\bombardiens\bin\x86\Debug\Content\font.xnb
+C:\Users\Jerome\views\ProgrammingProjects\c#\FighersProject\bombardiens\bombardiens\bin\x86\Debug\bombardiens.exe
+C:\Users\Jerome\views\ProgrammingProjects\c#\FighersProject\bombardiens\bombardiens\bin\x86\Debug\bombardiens.pdb
+C:\Users\Jerome\views\ProgrammingProjects\c#\FighersProject\bombardiens\bombardiens\bin\x86\Debug\GameLibrary.dll
+C:\Users\Jerome\views\ProgrammingProjects\c#\FighersProject\bombardiens\bombardiens\bin\x86\Debug\GameLibrary.pdb
+C:\Users\Jerome\views\ProgrammingProjects\c#\FighersProject\bombardiens\bombardiens\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jerome\views\ProgrammingProjects\c#\FighersProject\bombardiens\bombardiens\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jerome\views\ProgrammingProjects\c#\FighersProject\bombardiens\bombardiens\obj\x86\Debug\bombardiens.exe
+C:\Users\Jerome\views\ProgrammingProjects\c#\FighersProject\bombardiens\bombardiens\obj\x86\Debug\bombardiens.pdb

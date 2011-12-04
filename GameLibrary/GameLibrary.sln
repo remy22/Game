@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary", "GameLibrary\GameLibrary.csproj", "{19DB77AB-D691-466D-A60D-DB820A9A97EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo\Demo.csproj", "{11AA4D44-EF7E-43DB-A37C-D04DA4BBC914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoContent", "Demo\DemoContent\DemoContent.contentproj", "{59D02274-7E53-4679-95C0-276DE5BF17B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DB77AB-D691-466D-A60D-DB820A9A97EB}.Debug|x86.ActiveCfg = Debug|x86
+		{19DB77AB-D691-466D-A60D-DB820A9A97EB}.Debug|x86.Build.0 = Debug|x86
+		{19DB77AB-D691-466D-A60D-DB820A9A97EB}.Release|x86.ActiveCfg = Release|x86
+		{19DB77AB-D691-466D-A60D-DB820A9A97EB}.Release|x86.Build.0 = Release|x86
+		{11AA4D44-EF7E-43DB-A37C-D04DA4BBC914}.Debug|x86.ActiveCfg = Debug|x86
+		{11AA4D44-EF7E-43DB-A37C-D04DA4BBC914}.Debug|x86.Build.0 = Debug|x86
+		{11AA4D44-EF7E-43DB-A37C-D04DA4BBC914}.Release|x86.ActiveCfg = Release|x86
+		{11AA4D44-EF7E-43DB-A37C-D04DA4BBC914}.Release|x86.Build.0 = Release|x86
+		{59D02274-7E53-4679-95C0-276DE5BF17B3}.Debug|x86.ActiveCfg = Debug|x86
+		{59D02274-7E53-4679-95C0-276DE5BF17B3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

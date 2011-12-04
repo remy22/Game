@@ -1,0 +1,3 @@
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\FighersProject\bombardiens\bombardiensContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Documents\Projects\FighersProject\bombardiens\bombardiensContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jerome\views\ProgrammingProjects\c#\FighersProject\bombardiens\bombardiensContent\obj\x86\Debug\ResolveAssemblyReference.cache

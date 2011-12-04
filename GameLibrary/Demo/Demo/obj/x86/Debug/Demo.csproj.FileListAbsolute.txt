@@ -1,0 +1,8 @@
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\Demo\Demo\bin\x86\Debug\Demo.exe
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\Demo\Demo\bin\x86\Debug\Demo.pdb
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\Demo\Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\Demo\Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\Demo\Demo\obj\x86\Debug\Demo.exe
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\Demo\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\Demo\Demo\bin\x86\Debug\GameLibrary.dll
+C:\Users\Jerome\Documents\Visual Studio 2010\Projects\GameLibrary\Demo\Demo\bin\x86\Debug\GameLibrary.pdb
